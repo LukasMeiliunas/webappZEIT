@@ -1,0 +1,60 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/article": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/business": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/news": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/post": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/sport": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/weather": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ],
+    "/": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.0dfb1ae5390423998dbd.js",
+      "static/runtime/main-1cf84cccff96a48214dc.js"
+    ]
+  }
+}
