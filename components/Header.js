@@ -3,7 +3,7 @@
 
 const Header = () => (
     <div>
-       <h2>Lukas Meiliunas X00139670</h2>
+            <h2>Lukas Meiliunas X00139670 - POWERED BY <a href="NEWSAPI.ORG"></h2>
      
         <style jsx>{`
 
